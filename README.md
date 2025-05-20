@@ -76,18 +76,3 @@ Berikut adalah contoh tuple DFA/NFA beserta hasil simulasi yang bisa dicoba di a
 
 ---
 
-## 🧩 Catatan Pengembangan Lanjutan (TODO)
-
-- [ ] Tambah dukungan transisi epsilon (`ε`) untuk NFA
-- [ ] Tambah animasi jalur saat simulasi
-- [ ] Ekspor/import konfigurasi mesin dalam format JSON
-- [ ] Mode gelap (dark mode)
-- [ ] Validasi lebih ketat untuk deteksi loop tak hingga
-
----
-
-## 📝 Lisensi
-
-MIT License – Lihat file `LICENSE` untuk detail.
-
----
