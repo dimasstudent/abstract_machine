@@ -75,4 +75,3 @@ Berikut adalah contoh tuple DFA/NFA beserta hasil simulasi yang bisa dicoba di a
 | **Tombol Reset dan Lock Posisi** | Atur posisi node agar tetap saat layout ulang |
 
 ---
-
